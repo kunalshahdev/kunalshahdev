@@ -1,39 +1,37 @@
 # Hey, I'm Kunal 👋
 
-Frontend developer based in Kathmandu, Nepal. I build small, focused web tools — mostly vanilla JS and CSS, occasionally PHP when the backend calls for it. I enjoy the process of taking something that feels clunky and making it feel clean.
-
-Right now I'm working through a personal challenge of shipping one project a week. Not all of them are polished, but each one teaches something new.
+Frontend developer & BCA student based in Kathmandu, Nepal. I build focused web tools — from vanilla JS components to full React apps. Currently shipping one project a week and documenting the process here.
 
 ---
 
 ## What I've been building
 
-Mostly frontend projects — UI components, small apps, a few things I actually use day-to-day.
-
 | Project | What it does | Stack |
 |---|---|---|
-| [Hotel Management System](https://github.com/kunalshahdev/hotel-management-system) | Full-stack app for managing hotel rooms, bookings & customers | PHP, MySQL, JS |
-| [Productivity Dashboard](https://github.com/kunalshahdev/Productivity-Dashboard) | All-in-one tab with clock, calculator, and notes | HTML, CSS, JS |
-| [Expense Tracker](https://github.com/kunalshahdev/expense-tracker) | Track income and expenses with category breakdown | JS |
-| [Habit Tracker](https://github.com/kunalshahdev/habit-tracker) | Mark daily habits, visualize streaks | JS |
-| [Currency Converter](https://github.com/kunalshahdev/currency-converter) | Live rates, clean minimal UI | CSS, JS |
-| [GitHub Profile Finder](https://github.com/kunalshahdev/github-profile-finder) | Search any GitHub user and display their stats | CSS, JS |
-| [Chat Application UI](https://github.com/kunalshahdev/Chat-Application-UI) | Fully responsive chat interface (frontend only) | CSS |
-| [Kanban Board UI](https://github.com/kunalshahdev/Kanban-Board-UI) | Drag-and-drop task board | JS |
+| [HR Dashboard](https://github.com/kunalshahdev/HR-Dashboard) | Employee management, onboarding, leave tracking & analytics | React, Tailwind CSS |
+| [Hotel Management System](https://github.com/kunalshahdev/hotel-management-system) | Full-stack app for managing rooms, bookings & customers | PHP, MySQL, JS |
+| [Personal Portfolio](https://kunalshahdev.github.io/portfolio) | Dark-theme portfolio with particles & scroll animations | HTML, CSS, JS |
+| [Expense Tracker](https://github.com/kunalshahdev/expense-tracker) | Track income & expenses with category breakdown & charts | JS |
+| [Task Manager](https://github.com/kunalshahdev/task-manager) | Add, organize & filter tasks with localStorage persistence | HTML, CSS, JS |
+| [Recipe Finder](https://github.com/kunalshahdev/recipe-finder) | Search recipes by ingredients via Spoonacular API | JS, API |
+| [Productivity Dashboard](https://github.com/kunalshahdev/Productivity-Dashboard) | All-in-one tab with clock, calculator & notes | HTML, CSS, JS |
+| [Habit Tracker](https://github.com/kunalshahdev/habit-tracker) | Mark daily habits & visualize streaks | JS |
+| [GitHub Profile Finder](https://github.com/kunalshahdev/github-profile-finder) | Search any GitHub user & display their stats | JS, API |
 
 ---
 
-## Tools I reach for
+## Tech stack
 
-- **Languages:** HTML · CSS · JavaScript · PHP · SQL
-- **Concepts:** Responsive design · REST APIs · DOM manipulation · Component-driven UI
-- **Tools:** VS Code · Git · XAMPP · Figma (for references)
+**Languages:** HTML · CSS · JavaScript · PHP · SQL  
+**Frameworks:** React · Tailwind CSS  
+**Tools:** VS Code · Git · Vite · XAMPP  
+**Concepts:** Responsive design · REST APIs · DOM manipulation · Component-driven UI
 
 ---
 
 ## A bit about me
 
-I'm a CS student in my final stretch. Before I got serious about coding I spent time in pharma, which taught me one useful thing — debugging a failing process is the same whether it's a drug reaction or a broken API call. You isolate, you test, you fix.
+I'm a BCA student in my final stretch. Before I got serious about coding I spent time in pharma, which taught me one useful thing — debugging a failing process is the same whether it's a drug reaction or a broken API call. You isolate, you test, you fix.
 
 Outside of screens I go to the gym, read, and occasionally explore the mountains nearby.
 
@@ -42,7 +40,8 @@ Outside of screens I go to the gym, read, and occasionally explore the mountains
 ## Get in touch
 
 - LinkedIn: [kunal-raj-shah](https://www.linkedin.com/in/kunal-raj-shah-670183382/)
-- Email: kunalshah.dev *(via GitHub)*
+- Email: kunalshah1172@gmail.com
+- Portfolio: [kunalshah.dev](https://kunalshah.dev)
 
 ---
 

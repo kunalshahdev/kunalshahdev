@@ -31,7 +31,7 @@ Frontend developer & BCA student based in Kathmandu, Nepal. I build focused web 
 
 ## A bit about me
 
-I'm a BCA student in my final stretch. Before I got serious about coding I spent time in pharma, which taught me one useful thing — debugging a failing process is the same whether it's a drug reaction or a broken API call. You isolate, you test, you fix.
+I'm a web developer and graphic designer from Kathmandu, Nepal. I like building things for the web, frontend or backend, whatever it takes to make something that works and looks good. I've been at it for about three years and I'm still learning something new with every project. These days I'm getting into React and enjoying how it changes the way I build interfaces. When I'm not coding I'm probably designing in Figma or trying out some new tool I found.
 
 Outside of screens I go to the gym, read, and occasionally explore the mountains nearby.
 
